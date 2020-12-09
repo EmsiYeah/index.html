@@ -1,0 +1,38 @@
+/* TAG SELECTORS */
+
+body {
+  background-color: #b2dffb;
+  font-family: "DejaVu Sans Mono", monospace;
+  font-size: 15px;
+  text-align: center ;
+}
+
+h1 {
+  color: #4a69bb;
+  font-family: "Lucida Console", monospace;
+}
+
+h3 {
+  color: #4a69bb;
+  text-indent: 35px;
+  font-family: "Lucida Console", monospace;
+}
+
+hr {
+  border-style: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/* CLASS SELECTORS */
+
+.centra {
+  margin-left: 5%;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
